@@ -1,2 +1,2 @@
 # odin-recipes
-I am building a basic HTML website. This website will be focused on recipes, which will be added in an unordered list. The skills I expect to learn from this project include adding a basic HTML-boilerplate, text features (such as emphasis and italics), HTML elements (such as pictures and hyper links)
+I am building a basic HTML website. This website will be focused on recipes, which will be added in an unordered list. The skills I expect to learn from this project include adding a basic HTML-boilerplate, text features (such as emphasis and italics), HTML elements (such as pictures and hyper links) and Git/GitHub basics.
