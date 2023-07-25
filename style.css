@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.title {
+    background-color: gold;
+    text-align: center;
+  }
+
+.link{
+    font-size: 20px;
+}
+
+.deepdish{
+    color: hsl(0, 76%, 36%);
+}
+
+.mahshi{
+    color: rgb(33, 103, 14);
+}
+
+#tres,
+h1.MexicanTresLeches{
+    color:darkorange;
+}
